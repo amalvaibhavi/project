@@ -1,0 +1,19 @@
+
+img {
+  border-radius: 50%;
+  float: right;
+}
+
+.container{
+	
+	height: 170px;
+	background-color:#E6E6FA;
+	margin-left: 1300px;
+	border-radius: 30px;
+	padding: 30px;
+	float: left;
+
+}
+body{
+	background-color: #DAF7A6 ;
+}

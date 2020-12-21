@@ -1,0 +1,46 @@
+
+body{
+	background: url('../images/add1.jpg') center center no-repeat;
+	/*b
+	font-family: new time roman;
+	height: 160%;
+	width: 100%;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+*/
+background-size: cover;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    position: relative;
+
+}
+
+.label{
+	font-size:2px;
+	margin-top: 20px;
+	font-weight: normal;
+}
+
+#ui{
+	background-color: rgba(255, 99, 71, 0.6);
+	border-radius: 30px;
+	padding: 0px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	position:relative;
+	height: 700px;
+	text-align: center;
+
+}
+#ui label{
+	
+	font-size:20px;
+	
+}
+
+.error{ color: #00008B; 
+font-size: 10px;}
